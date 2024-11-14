@@ -15,3 +15,11 @@ Se um serviço está em versão prévia, ele não é necessariamente estável (n
 O Azure possui uma boa documentação. Você poderá acessá-la através do ícone "i" em cada campo existente.
 
 As diferentes configurações no momento da criação de uma máquina virtual podem influenciar no SLA, disponibilidade e custo.
+
+## Configurando uma instância de Banco de Dados na Azure
+
+Ao criar uma máquina virtual, é possível escolher algumas características, como a imagem do sistema operacional, disco rígido, rede, segurança, entre outros. Saber quais as características definidas será importante para avaliar o direcionamento do código.
+
+Outro exemplo de funcionalidade do Azure é o banco de dados. É importante configurá-lo de maneira adequada para que seja compatível com o orçamento.
+
+Quaanto mais autonomia e controle dos elementos de infraestrutura do Azure o usuário tem acesso, menos controle a Microsoft terá. É possível criar uma estrutura que se baseie no modelo IaaS.
